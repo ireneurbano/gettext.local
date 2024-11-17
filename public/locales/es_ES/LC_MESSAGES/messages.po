@@ -1,0 +1,15 @@
+# Traducción al español de la aplicación
+# Generado por gettext
+# Fecha: 2024-11-07
+# Codificación: UTF-8
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+
+msgid "Welcome in my app"
+msgstr "Bienvenido a mi aplicación"
+
+msgid "This is the home page."
+msgstr "Esta es la página de inicio."
